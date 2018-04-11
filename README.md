@@ -2,7 +2,7 @@
 
 Angular 4 Environment set up:
 
-•	At first install angular cli tool
+•	At first install angular cli tool using,
 npm install -g angular/cli
 
 •	Next create new project
